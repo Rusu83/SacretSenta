@@ -2,7 +2,7 @@ var img,txt,butt,nume="nimeni";
 var n=5;
 var omini=["Andrei","Laurențiu","Liviu","Sânziana","Sorina"];
 var paroli=["Npbv>oEYgjZ","5735","Aml^n","O1KEN","J_q]i[<m9WcUaS"];
-var mix=[")", "*", "(", "+", ","];
+var mix=["(", ",", "+", "*", ")"];
 
 function preload(){
   img=loadImage("data/img.jpg");
